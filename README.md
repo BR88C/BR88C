@@ -6,5 +6,6 @@ I'm currently working on my [discord bot peter](https://github.com/BR88C/peter),
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=BR88C&show_icons=true&theme=dark&hide=stars&count_private=true">
+    <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BR88C&theme=dark&layout=compact">
 </p>
