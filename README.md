@@ -4,10 +4,11 @@ I'm currently working on a 3D browser game, [Krew.io](https://krew.io), as well 
 
 ---
 ### Solution Stack
-![](https://img.shields.io/badge/node.js%20-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/node.js%20-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white&link=https://nodejs.org/&link=https://nodejs.org/)
 ![](https://img.shields.io/badge/javascript%20-%23323330.svg?style=for-the-badge&logo=javascript)
 ![](https://img.shields.io/badge/html5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/css3%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/java%20-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)
 ![](https://img.shields.io/badge/nginx%20-%23269539.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
 ---
