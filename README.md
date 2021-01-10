@@ -1,6 +1,6 @@
-I'm a casual programmer, working mainly in fullstack web development with NodeJS applications. I enjoy making [discord bots](https://github.com/BR88C/peter), as well as [simple websites](https://github.com/BR88C/youtube-downloader). I also have some background in networking and hosting, and host several web applications for myself and others.
+I'm a casual programmer, specializing in fullstack web development and NodeJS applications. I enjoy making [discord bots](https://github.com/BR88C/peter), as well as [simple websites](https://github.com/BR88C/youtube-downloader). I also have some background in networking and hosting, and host several web applications for myself and others.
 
-I'm currently working on a 3D browser game, [Krew.io](https://krew.io), as well as my [discord bot peter](https://github.com/BR88C/peter). Additionally I am working on some other private projects that utilize regl or MongoDB. I'm also currently studying C++ in hopes to begin using the language.
+I'm currently developing a 3D browser game, [Krew.io](https://krew.io), as well as my [discord bot peter](https://github.com/BR88C/peter). Additionally I am working on some other private projects that utilize regl or MongoDB. I'm also currently studying C++ in hopes to begin using the language.
 
 ---
 ### Solution Stack
