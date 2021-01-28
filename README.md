@@ -11,6 +11,12 @@ I'm currently developing a 3D browser game, [Krew.io](https://krew.io), as well 
 [![](https://img.shields.io/badge/java%20-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 
 ---
+### Links
+[![](https://img.shields.io/badge/twitter%20-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/BR88C)
+[![](https://img.shields.io/badge/discord%20-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/E2JsYPPJYN)
+[![](https://img.shields.io/badge/patreon%20-%23F96854.svg?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/BR88C)
+
+---
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=BR88C&show_icons=true&bg_color=0D1117&title_color=F0F6FC&text_color=F0F6FC&icon_color=58A6FF&hide_border=true&hide=stars&count_private=true">
