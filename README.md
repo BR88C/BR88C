@@ -1,6 +1,6 @@
-I'm a casual programmer, specializing in full-stack web development and NodeJS applications. I enjoy making [discord bots](https://github.com/BR88C/peter), as well as [simple websites](https://github.com/BR88C/youtube-downloader). I also have some background in networking and hosting, and host several web applications for myself and others.
+I'm a casual programmer, specializing in full-stack web development and NodeJS applications. I enjoy making [discord bots](https://github.com/BR88C/peter), as well as [simple websites](https://github.com/badfirmware-com/badfirmware.com) in my free time. I also have some background in networking and hosting, and host several web applications for myself and others.
 
-I'm currently developing a 3D browser game, [Krew.io](https://krew.io), as well as my [discord bot peter](https://github.com/BR88C/peter). Additionally I am working on some other private projects that utilize regl or MongoDB. I'm also currently studying C++ in hopes to begin using the language.
+I'm currently developing a 3D browser game, [Krew.io](https://krew.io), my [discord bot peter](https://github.com/BR88C/peter), a [RESTful API](https://github.com/badfirmware-com/badfirmware-api), a [discord chatbot](https://github.com/BR88C/andrew), as well as some other private projects. I'm also currently studying C++ in hopes to begin using the language.
 
 ---
 ### Solution Stack
@@ -9,6 +9,13 @@ I'm currently developing a 3D browser game, [Krew.io](https://krew.io), as well 
 [![](https://img.shields.io/badge/html5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org/multipage/)
 [![](https://img.shields.io/badge/css3%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html)
 [![](https://img.shields.io/badge/java%20-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+<br>
+[![](https://img.shields.io/badge/express%20-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+[![](https://img.shields.io/badge/socket.io%20-%23010101.svg?style=for-the-badge&logo=socket.io&logoColor=white)](https://socket.io/)
+[![](https://img.shields.io/badge/mongodb%20-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![](https://img.shields.io/badge/nginx%20-%23269539.svg?style=for-the-badge&logo=nginx&logoColor=white)](https://www.nginx.com/)
+[![](https://img.shields.io/badge/jquery%20-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com/)
+[![](https://img.shields.io/badge/three.js%20-%23000000.svg?style=for-the-badge&logo=three.js&logoColor=white)](https://threejs.org/)
 
 ---
 ### Links
