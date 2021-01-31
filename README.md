@@ -2,6 +2,11 @@ I'm a casual programmer, specializing in full-stack web development and NodeJS a
 
 I'm currently developing a 3D browser game, [Krew.io](https://krew.io), my [discord bot peter](https://github.com/BR88C/peter), a [RESTful API](https://github.com/badfirmware-com/badfirmware-api), a [discord chatbot](https://github.com/BR88C/andrew), as well as some other private projects. I'm also currently studying C++ in hopes to begin using the language.
 
+<br>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=BR88C&show_icons=true&bg_color=0D1117&title_color=F0F6FC&text_color=F0F6FC&icon_color=58A6FF&hide_border=true&hide=stars&count_private=true">
+</p>
+
 ---
 ### Solution Stack
 [![](https://img.shields.io/badge/node.js%20-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
@@ -22,9 +27,3 @@ I'm currently developing a 3D browser game, [Krew.io](https://krew.io), my [disc
 [![](https://img.shields.io/badge/twitter%20-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/BR88C)
 [![](https://img.shields.io/badge/discord%20-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/E2JsYPPJYN)
 [![](https://img.shields.io/badge/patreon%20-%23F96854.svg?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/BR88C)
-
----
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=BR88C&show_icons=true&bg_color=0D1117&title_color=F0F6FC&text_color=F0F6FC&icon_color=58A6FF&hide_border=true&hide=stars&count_private=true">
-</p>
