@@ -32,6 +32,7 @@ I'm currently developing a 3D browser game, [Krew.io](https://krew.io), my [disc
 [![](https://img.shields.io/badge/three.js%20-%23000000.svg?style=for-the-badge&logo=three.js&logoColor=white)](https://threejs.org/)
 [![](https://img.shields.io/badge/-ytdl%20core-E33636?style=for-the-badge)](https://www.npmjs.com/package/ytdl-core)
 [![](https://img.shields.io/badge/-discord.js-6B74CF?style=for-the-badge)](https://discord.js.org/#/)
+[![](https://img.shields.io/badge/eslint%20-%234B32C3.svg?style=for-the-badge&logo=eslint&logoColor=white)](https://eslint.org/)
 
 ---
 ## Links
