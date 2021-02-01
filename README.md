@@ -21,14 +21,16 @@ I'm currently developing a 3D browser game, [Krew.io](https://krew.io), my [disc
 ### Libraries
 [![](https://img.shields.io/badge/express%20-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 [![](https://img.shields.io/badge/socket.io%20-%23010101.svg?style=for-the-badge&logo=socket.io&logoColor=white)](https://socket.io/)
+[![](https://img.shields.io/badge/-axios-F03560?style=for-the-badge)](https://www.npmjs.com/package/axios)
 [![](https://img.shields.io/badge/grunt%20-%23FBA919.svg?style=for-the-badge&logo=grunt&logoColor=white)](https://gruntjs.com/)
 [![](https://img.shields.io/badge/webpack%20-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)](https://webpack.js.org/)
 [![](https://img.shields.io/badge/mongodb%20-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![](https://img.shields.io/badge/-docsify-42E382?style=for-the-badge)](https://docsify.js.org/#/)
 [![](https://img.shields.io/badge/nginx%20-%23269539.svg?style=for-the-badge&logo=nginx&logoColor=white)](https://www.nginx.com/)
 [![](https://img.shields.io/badge/jquery%20-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com/)
-[![](https://img.shields.io/badge/three.js%20-%23000000.svg?style=for-the-badge&logo=three.js&logoColor=white)](https://threejs.org/)
 [![](https://img.shields.io/badge/-regl-3C005C?style=for-the-badge)](http://regl.party/)
+[![](https://img.shields.io/badge/three.js%20-%23000000.svg?style=for-the-badge&logo=three.js&logoColor=white)](https://threejs.org/)
+[![](https://img.shields.io/badge/-ytdl%20core-E33636?style=for-the-badge)](https://www.npmjs.com/package/ytdl-core)
 [![](https://img.shields.io/badge/-discord.js-6B74CF?style=for-the-badge)](https://discord.js.org/#/)
 
 ---
