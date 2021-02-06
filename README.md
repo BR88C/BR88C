@@ -22,7 +22,6 @@ I'm currently developing a 3D browser game, [Krew.io](https://krew.io), my [disc
 ### Libraries
 [![](https://img.shields.io/badge/express%20-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 [![](https://img.shields.io/badge/socket.io%20-%23010101.svg?style=for-the-badge&logo=socket.io&logoColor=white)](https://socket.io/)
-[![](https://img.shields.io/badge/-axios-F03560?style=for-the-badge)](https://www.npmjs.com/package/axios)
 [![](https://img.shields.io/badge/grunt%20-%23FBA919.svg?style=for-the-badge&logo=grunt&logoColor=white)](https://gruntjs.com/)
 [![](https://img.shields.io/badge/webpack%20-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)](https://webpack.js.org/)
 [![](https://img.shields.io/badge/mongodb%20-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
