@@ -1,6 +1,6 @@
 I'm a casual programmer, specializing in full-stack web development and NodeJS applications. I enjoy making [discord bots](https://github.com/BR88C/peter), as well as [simple websites](https://github.com/badfirmware-com/badfirmware.com) in my free time. I also have some background in networking and hosting, and host several web applications for myself and others.
 
-I'm currently developing a 3D browser game, [Krew.io](https://krew.io), my [discord bot peter](https://github.com/BR88C/peter), a [RESTful API](https://github.com/badfirmware-com/badfirmware-api), a [discord chatbot](https://github.com/BR88C/andrew), as well as some other private projects. I'm also currently studying C++ in hopes to begin using the language.
+I'm currently developing a 3D browser game, [Krew.io](https://krew.io), my [discord bot peter](https://github.com/BR88C/peter), a [discord chatbot](https://github.com/BR88C/andrew), as well as some other private projects. I'm also currently studying C++ in hopes to begin using the language.
 
 <br>
 <p align="center">
