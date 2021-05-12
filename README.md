@@ -14,7 +14,7 @@ Here is a list of projects I have worked on, excluding several private projects:
     <a href="https://twitter.com/BR88C"><img src="https://img.shields.io/badge/twitter%20-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
     <a href="https://discord.com/invite/E2JsYPPJYN"><img src="https://img.shields.io/badge/discord%20-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
     <a href="https://www.patreon.com/BR88C"><img src="https://img.shields.io/badge/patreon%20-%23F96854.svg?style=for-the-badge&logo=patreon&logoColor=white"></a>
-    <br><br>
+    <br>
     <a href="https://github.com/BR88C"><img src="https://github-readme-stats.vercel.app/api?username=BR88C&show_icons=true&bg_color=0D1117&title_color=F0F6FC&text_color=F0F6FC&icon_color=58A6FF&hide_border=true&hide=stars&count_private=true"></a>
 </div>
 
