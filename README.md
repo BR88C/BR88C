@@ -10,9 +10,13 @@ Here is a list of projects I have worked on, excluding several private projects:
 - Bonzi Buddy Bot - September 2019 - August 2020
 
 <br>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=BR88C&show_icons=true&bg_color=0D1117&title_color=F0F6FC&text_color=F0F6FC&icon_color=58A6FF&hide_border=true&hide=stars&count_private=true">
-</p>
+<div align="center">
+    <a href="https://twitter.com/BR88C"><img src="https://img.shields.io/badge/twitter%20-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
+    <a href="https://discord.com/invite/E2JsYPPJYN"><img src="https://img.shields.io/badge/discord%20-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
+    <a href="https://www.patreon.com/BR88C"><img src="https://img.shields.io/badge/patreon%20-%23F96854.svg?style=for-the-badge&logo=patreon&logoColor=white"></a>
+    <br><br>
+    <a href="https://github.com/BR88C"><img src="https://github-readme-stats.vercel.app/api?username=BR88C&show_icons=true&bg_color=0D1117&title_color=F0F6FC&text_color=F0F6FC&icon_color=58A6FF&hide_border=true&hide=stars&count_private=true"></a>
+</div>
 
 ---
 ## Solution Stack
@@ -43,9 +47,3 @@ Here is a list of projects I have worked on, excluding several private projects:
 [![](https://img.shields.io/badge/three.js%20-%23000000.svg?style=for-the-badge&logo=three.js&logoColor=white)](https://threejs.org/)
 [![](https://img.shields.io/badge/-ytdl%20core-E33636?style=for-the-badge)](https://www.npmjs.com/package/ytdl-core)
 [![](https://img.shields.io/badge/-discord.js-6B74CF?style=for-the-badge)](https://discord.js.org/#/)
-
----
-## Links
-[![](https://img.shields.io/badge/twitter%20-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/BR88C)
-[![](https://img.shields.io/badge/discord%20-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/E2JsYPPJYN)
-[![](https://img.shields.io/badge/patreon%20-%23F96854.svg?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/BR88C)
