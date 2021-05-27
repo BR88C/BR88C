@@ -16,12 +16,12 @@ Here is a list of projects I have worked on, excluding several private projects:
     <a href="https://www.patreon.com/BR88C"><img src="https://img.shields.io/badge/patreon%20-%23F96854.svg?style=for-the-badge&logo=patreon&logoColor=white"></a>
     <br>
     <a href="https://github.com/BR88C"><img src="https://github-readme-stats.vercel.app/api?username=BR88C&show_icons=true&bg_color=0D1117&title_color=F0F6FC&text_color=F0F6FC&icon_color=58A6FF&hide_border=true&hide=stars&count_private=true"></a>
+    <br>
+    <a href="https://github.com/BR88C"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BR88C&layout=compact&bg_color=0D1117&title_color=F0F6FC&text_color=F0F6FC&hide_border=true"></a>
 </div>
 
 ---
 ## Solution Stack
-
-<a href="https://github.com/BR88C"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BR88C&layout=compact&bg_color=0D1117&title_color=F0F6FC&text_color=F0F6FC&hide_border=true"></a>
 
 ### Languages
 [![](https://img.shields.io/badge/javascript%20-%23323330.svg?style=for-the-badge&logo=javascript)](https://www.javascript.com/)
