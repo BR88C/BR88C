@@ -21,6 +21,8 @@ Here is a list of projects I have worked on, excluding several private projects:
 ---
 ## Solution Stack
 
+<a href="https://github.com/BR88C"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BR88C&layout=compact&bg_color=0D1117&title_color=F0F6FC&text_color=F0F6FC&hide_border=true"></a>
+
 ### Languages
 [![](https://img.shields.io/badge/javascript%20-%23323330.svg?style=for-the-badge&logo=javascript)](https://www.javascript.com/)
 [![](https://img.shields.io/badge/typescript%20-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
