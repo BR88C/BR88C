@@ -3,7 +3,7 @@ I'm a casual programmer, specializing in full-stack web development and NodeJS a
 ### Projects
 Here is a list of projects I have worked on, excluding several private projects:
 - [Peter!](https://github.com/BR88C/peter) - August 2020 - Present
-- [BoatGame.io](https://boatgame.io) - March 2021 - Present
+- [Krew.io](https://krew.io) - December 2020 - Present
 - [badfirmware.com](https://github.com/badfirmware-com/badfirmware.com) - June 2020 - Present
 - [Andrew!](https://github.com/BR88C/andrew) - January 2021 - Present
 - [Youtube Downloader](https://github.com/BR88C/youtube-downloader) - March 2020 - August 2020
