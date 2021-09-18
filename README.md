@@ -1,20 +1,22 @@
-I'm a casual programmer, specializing in full-stack web development and NodeJS applications. I enjoy making [discord bots](https://github.com/BR88C/peter), as well as [simple websites](https://github.com/badfirmware-com/badfirmware.com) in my free time. I also have some background in networking and hosting, and host several web applications for myself and others.
+I'm a 16 year old casual programmer, specializing in full-stack web development and NodeJS applications. I also have some background in networking and hosting, and host several web applications for myself and others.
 
 ### Projects
-Here is a list of projects I have worked on, excluding several private projects:
-- [Peter!](https://github.com/BR88C/peter) - August 2020 - Present
-- [Krew.io](https://krew.io) - December 2020 - Present
-- [badfirmware.com](https://github.com/badfirmware-com/badfirmware.com) - June 2020 - Present
-- [Andrew!](https://github.com/BR88C/andrew) - January 2021 - Present
-- [Youtube Downloader](https://github.com/BR88C/youtube-downloader) - March 2020 - August 2020
-- Bonzi Buddy Bot - September 2019 - August 2020
+Here are some of the projects I'm currently working on, excluding private ones:
+- [Peter!](https://github.com/BR88C/peter) | August 2020 - Present
+- [Krew.io](https://krew.io) | December 2020 - Present
+- [Discord Rose / JADL](https://github.com/discord-rose) | June 2021 - Present
 
 <br>
+
+---
 <div align="center">
-    <a href="https://twitter.com/BR88C"><img src="https://img.shields.io/badge/twitter%20-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
-    <a href="https://discord.com/invite/E2JsYPPJYN"><img src="https://img.shields.io/badge/discord%20-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
-    <a href="https://www.patreon.com/BR88C"><img src="https://img.shields.io/badge/patreon%20-%23F96854.svg?style=for-the-badge&logo=patreon&logoColor=white"></a>
-    <br>
+    <h3>Find me on the Web</h3>
+    <a href="https://discord.com/invite/E2JsYPPJYN"><img src="https://img.shields.io/badge/discord%20%28BR88C%230001%29%20-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
+    <a href="https://twitter.com/BR88C"><img src="https://img.shields.io/badge/twitter%20%28%40BR88C%29%20%20-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
+</div>
+
+---
+<div align="center">
     <a href="https://github.com/BR88C"><img src="https://github-readme-stats.vercel.app/api?username=BR88C&show_icons=true&bg_color=0D1117&title_color=F0F6FC&text_color=F0F6FC&icon_color=58A6FF&hide_border=true&hide=stars&count_private=true"></a>
     <br>
     <a href="https://github.com/BR88C"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BR88C&layout=compact&bg_color=0D1117&title_color=F0F6FC&text_color=F0F6FC&hide_border=true"></a>
@@ -35,6 +37,9 @@ Here is a list of projects I have worked on, excluding several private projects:
 [![](https://img.shields.io/badge/eslint%20-%234B32C3.svg?style=for-the-badge&logo=eslint&logoColor=white)](https://eslint.org)
 [![](https://img.shields.io/badge/mongodb%20-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com)
 [![](https://img.shields.io/badge/nginx%20-%23269539.svg?style=for-the-badge&logo=nginx&logoColor=white)](https://www.nginx.com)
+[![](https://img.shields.io/badge/influxdb%20-%2322ADF6.svg?style=for-the-badge&logo=influxdb&logoColor=white)](https://www.influxdata.com)
+[![](https://img.shields.io/badge/grafana%20-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)](https://grafana.com/)
+[![](https://img.shields.io/badge/nuxt.js%20-%2300C58E.svg?style=for-the-badge&logo=nuxt.js&logoColor=white)](https://nuxtjs.org)
 [![](https://img.shields.io/badge/express%20-%23F2F2F2.svg?style=for-the-badge&logo=express&logoColor=black)](https://expressjs.com)
 [![](https://img.shields.io/badge/socket.io%20-%23010101.svg?style=for-the-badge&logo=socket.io&logoColor=white)](https://socket.io)
 [![](https://img.shields.io/badge/-docsify-42E382?style=for-the-badge)](https://docsify.js.org)
@@ -42,6 +47,5 @@ Here is a list of projects I have worked on, excluding several private projects:
 [![](https://img.shields.io/badge/bootstrap%20-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
 [![](https://img.shields.io/badge/-regl-3C005C?style=for-the-badge)](http://regl.party)
 [![](https://img.shields.io/badge/three.js%20-%23000000.svg?style=for-the-badge&logo=three.js&logoColor=white)](https://threejs.org)
-[![](https://img.shields.io/badge/-ytdl%20core-E33636?style=for-the-badge)](https://www.npmjs.com/package/ytdl-core)
 [![](https://img.shields.io/badge/-discord%20rose-E61E64?style=for-the-badge)](https://rose.js.org)
 [![](https://img.shields.io/badge/-discord.js-6B74CF?style=for-the-badge)](https://discord.js.org)
