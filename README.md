@@ -1,4 +1,4 @@
-I'm a 16 year old casual programmer, specializing in full-stack web development and NodeJS applications. I also have some background in networking and hosting, and host several web applications for myself and others.
+I'm a 17 year old casual programmer, specializing in full-stack web development and NodeJS applications. I also have some background in networking and hosting, and host several web applications for myself and others.
 
 ### Projects
 Here are some of the projects I'm currently working on, excluding private ones:
