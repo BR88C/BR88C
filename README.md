@@ -3,7 +3,7 @@ I'm a 17 year old casual programmer, specializing in full-stack web development 
 ### Projects
 Here are some of the projects I'm currently working on, excluding private ones:
 - [Peter!](https://github.com/BR88C/peter) | August 2020 - Present
-- [boogcord](https://github.com/boogcord) | November 2021 - Present
+- [Distype](https://github.com/distype) | November 2021 - Present
 
 ---
 ## Solution Stack
