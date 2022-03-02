@@ -2,8 +2,8 @@ I'm a 17 year old casual programmer, specializing in full-stack web development 
 
 ### Projects
 Here are some of the projects I'm currently working on, excluding private ones:
-- [Peter!](https://github.com/BR88C/peter) | August 2020 - Present
 - [Distype](https://github.com/distype) | November 2021 - Present
+- [Peter!](https://github.com/BR88C/peter) | August 2020 - Present
 
 ---
 ## Solution Stack
@@ -13,6 +13,7 @@ Here are some of the projects I'm currently working on, excluding private ones:
 [![](https://img.shields.io/badge/html5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org/multipage)
 [![](https://img.shields.io/badge/css3%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html)
 [![](https://img.shields.io/badge/java%20-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com)
+[![](https://img.shields.io/badge/c%20-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=black)](https://www.iso.org/standard/74528.html)
 [![](https://img.shields.io/badge/c%23%20-%23239120.svg?style=for-the-badge&logo=c%20sharp&logoColor=white)](https://dotnet.microsoft.com/languages/csharp)
 [![](https://img.shields.io/badge/gnu%20bash%20-%234EAA25.svg?style=for-the-badge&logo=gnu%20bash&logoColor=white)](https://www.gnu.org/software/bash)
 [![](https://img.shields.io/badge/node.js%20-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
@@ -34,13 +35,11 @@ Here are some of the projects I'm currently working on, excluding private ones:
 [![](https://img.shields.io/badge/bootstrap%20-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
 [![](https://img.shields.io/badge/-regl-3C005C?style=for-the-badge)](http://regl.party)
 [![](https://img.shields.io/badge/three.js%20-%23000000.svg?style=for-the-badge&logo=three.js&logoColor=white)](https://threejs.org)
-[![](https://img.shields.io/badge/-discord%20rose-E61E64?style=for-the-badge)](https://rose.js.org)
-[![](https://img.shields.io/badge/-discord.js-6B74CF?style=for-the-badge)](https://discord.js.org)
 
 ---
 <div align="center">
     <h3>Find me on the Web</h3>
-    <a href="https://discord.com/invite/E2JsYPPJYN"><img src="https://img.shields.io/badge/discord%20%28BR88C%230001%29%20-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
+    <a href="https://discord.gg/booger"><img src="https://img.shields.io/badge/discord%20%28BR88C%230001%29%20-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
     <a href="https://twitter.com/BR88C"><img src="https://img.shields.io/badge/twitter%20%28%40BR88C%29%20%20-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </div>
 
