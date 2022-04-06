@@ -25,7 +25,6 @@ Here are some of the projects I'm currently working on, excluding private ones:
 [![](https://img.shields.io/badge/fastify%20-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)](https://www.fastify.io/)
 [![](https://img.shields.io/badge/express%20-%23F2F2F2.svg?style=for-the-badge&logo=express&logoColor=black)](https://expressjs.com)
 [![](https://img.shields.io/badge/socket.io%20-%23010101.svg?style=for-the-badge&logo=socket.io&logoColor=white)](https://socket.io)
-[![](https://img.shields.io/badge/chart.js%20-%23FF6384.svg?style=for-the-badge&logo=chart.js&logoColor=white)](https://www.chartjs.org/)
 [![](https://img.shields.io/badge/-docsify-42E382?style=for-the-badge)](https://docsify.js.org)
 [![](https://img.shields.io/badge/jquery%20-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com)
 [![](https://img.shields.io/badge/bootstrap%20-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
