@@ -1,4 +1,4 @@
-Casual programmer that enjoys back-end development. Experienced with Typescript / Node.js, as well as Java. Also dabbling with C. [Go check out my website](https://br88c.dev)!
+Programmer that enjoys back-end development. Experienced with Typescript / Node.js, as well as Java. Also dabbling with C. [Go check out my website](https://br88c.dev)!
 
 ---
 ## Projects
