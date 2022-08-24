@@ -16,8 +16,6 @@ Here are some of the projects I'm currently working on, excluding private ones:
 [![](https://img.shields.io/badge/css3%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html)
 [![](https://img.shields.io/badge/java%20-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com)
 [![](https://img.shields.io/badge/node.js%20-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
-[![](https://img.shields.io/badge/webpack%20-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)](https://webpack.js.org)
-[![](https://img.shields.io/badge/eslint%20-%234B32C3.svg?style=for-the-badge&logo=eslint&logoColor=white)](https://eslint.org)
 [![](https://img.shields.io/badge/mongodb%20-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com)
 [![](https://img.shields.io/badge/influxdb%20-%2322ADF6.svg?style=for-the-badge&logo=influxdb&logoColor=white)](https://www.influxdata.com)
 [![](https://img.shields.io/badge/nginx%20-%23269539.svg?style=for-the-badge&logo=nginx&logoColor=white)](https://www.nginx.com)
