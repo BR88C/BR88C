@@ -1,13 +1,6 @@
 Programmer that enjoys back-end development. Experienced with Typescript / Node.js, as well as Java. Also dabbling with C. [Go check out my website](https://br88c.dev)!
 
 ---
-## Projects
-
-Here are some of the projects I'm currently working on, excluding private ones:
-- [Distype](https://github.com/distype) | November 2021 - Present
-- [Peter!](https://github.com/BR88C/peter) | August 2020 - Present
-
----
 ## Solution Stack
 
 [![](https://img.shields.io/badge/javascript%20-%23323330.svg?style=for-the-badge&logo=javascript)](https://www.javascript.com)
