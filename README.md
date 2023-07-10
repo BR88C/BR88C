@@ -11,13 +11,6 @@ Programmer that enjoys back-end development. Experienced with Typescript / Node.
 
 ---
 <div align="center">
-    <h3>Find me on the Web</h3>
-    <a href="https://discord.gg/booger"><img src="https://img.shields.io/badge/discord%20%28boog%230001%29%20-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
-    <a href="https://twitter.com/BR88C"><img src="https://img.shields.io/badge/twitter%20%28%40BR88C%29%20%20-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
-</div>
-
----
-<div align="center">
     <a href="https://github.com/BR88C"><img src="https://github-readme-stats.vercel.app/api?username=BR88C&show_icons=true&bg_color=0D1117&title_color=F0F6FC&text_color=F0F6FC&icon_color=58A6FF&hide_border=true&hide=stars&count_private=true"></a>
     <br>
     <a href="https://github.com/BR88C"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BR88C&layout=compact&bg_color=0D1117&title_color=F0F6FC&text_color=F0F6FC&hide_border=true"></a>
