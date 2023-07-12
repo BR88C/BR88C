@@ -8,10 +8,3 @@ Programmer that enjoys back-end development. Experienced with Typescript / Node.
     <a href="https://www.java.com"><img src="https://img.shields.io/badge/java%20-%23007396.svg?style=for-the-badge&logo=oracle&logoColor=white"></a>
     <a href="https://nodejs.org"><img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"></a>
 </div>
-
----
-<div align="center">
-    <a href="https://github.com/BR88C"><img src="https://github-readme-stats.vercel.app/api?username=BR88C&show_icons=true&bg_color=0D1117&title_color=F0F6FC&text_color=F0F6FC&icon_color=58A6FF&hide_border=true&hide=stars&count_private=true"></a>
-    <br>
-    <a href="https://github.com/BR88C"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BR88C&layout=compact&bg_color=0D1117&title_color=F0F6FC&text_color=F0F6FC&hide_border=true"></a>
-</div>
